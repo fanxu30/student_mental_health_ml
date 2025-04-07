@@ -1,85 +1,85 @@
-uid,type,Little interest or pleasure in doing things,"Feeling down, depressed, hopeless.","Trouble falling or staying asleep, or sleeping too much.",Feeling tired or having little energy,Poor appetite or overeating,Feeling bad about yourself or that you are a failure or have let yourself or your family down,"Trouble concentrating on things, such as reading the newspaper or watching television",Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that you have been moving around a lot more than usual,"Thoughts that you would be better off dead, or of hurting yourself",Response
-u00,pre,1,3,1,3,1,1,1,1,1,1
-u01,pre,3,3,3,3,1,3,1,1,1,3
-u02,pre,2,3,2,2,2,3,3,2,1,2
-u03,pre,1,3,1,1,1,1,1,3,1,2
-u04,pre,3,3,1,3,3,3,3,1,1,2
-u05,pre,1,1,3,1,3,1,1,1,1,0
-u07,pre,3,3,1,3,2,3,3,1,1,1
-u08,pre,3,3,1,1,3,3,3,1,1,1
-u09,pre,1,1,3,3,3,1,3,1,1,1
-u10,pre,1,1,1,1,1,1,1,1,1,0
-u12,pre,1,1,1,3,1,1,1,1,1,1
-u13,pre,1,3,1,3,3,3,1,1,1,1
-u14,pre,1,1,1,3,1,1,1,1,1,1
-u15,pre,3,1,1,3,3,1,1,1,1,1
-u16,pre,3,3,3,1,1,4,1,1,1,2
-u17,pre,3,3,4,4,4,3,1,3,1,2
-u18,pre,2,2,3,2,2,4,3,1,2,3
-u19,pre,3,3,1,1,3,3,1,1,3,2
-u20,pre,3,3,3,3,3,3,3,3,1,2
-u22,pre,1,3,3,1,1,3,1,1,1,1
-u23,pre,3,2,3,2,3,2,2,1,1,2
-u24,pre,3,3,3,3,3,1,1,1,1,2
-u27,pre,1,1,2,3,1,1,2,1,1,2
-u30,pre,1,1,3,1,1,1,1,1,1,1
-u31,pre,2,3,3,3,3,2,3,3,2,2
-u32,pre,1,1,2,3,3,1,1,1,1,1
-u33,pre,4,4,4,4,4,4,4,2,1,4
-u34,pre,1,1,3,1,3,3,1,1,1,1
-u35,pre,3,3,3,3,3,3,3,1,1,2
-u36,pre,3,1,1,3,1,1,1,1,1,1
-u39,pre,1,1,1,3,1,3,1,3,1,2
-u42,pre,1,1,1,1,1,1,3,1,1,1
-u43,pre,3,3,3,3,3,3,3,1,1,2
-u44,pre,1,1,1,3,1,1,1,1,1,2
-u45,pre,3,3,2,3,3,3,1,1,1,1
-u46,pre,2,3,2,3,3,2,3,1,1,2
-u47,pre,2,3,1,1,1,1,2,1,1,1
-u49,pre,1,1,1,3,3,1,1,1,1,2
-u50,pre,1,3,1,2,3,3,1,3,3,1
-u51,pre,1,1,1,3,1,1,1,1,1,1
-u52,pre,3,3,4,4,4,3,1,1,1,1
-u53,pre,3,3,2,2,3,1,3,1,1,2
-u56,pre,1,1,1,2,1,1,1,1,1,1
-u57,pre,1,1,1,1,1,1,1,1,1,1
-u58,pre,3,3,1,1,3,1,3,3,1,1
-u59,pre,1,1,3,2,3,1,1,3,1,1
-u00,post,1,1,1,3,1,3,3,1,1,2
-u01,post,1,3,3,3,1,1,1,3,1,2
-u02,post,2,1,1,3,3,1,3,1,1,2
-u03,post,3,3,1,3,1,3,1,1,1,2
-u04,post,3,3,3,3,3,2,3,1,1,2
-u05,post,1,1,1,1,1,1,1,1,1,1
-u07,post,3,3,2,2,2,1,1,1,1,2
-u09,post,1,1,1,1,3,3,1,1,1,1
-u10,post,1,1,1,3,3,1,1,2,1,1
-u14,post,1,1,3,3,3,1,1,1,1,0
-u15,post,1,1,3,1,1,1,1,1,1,1
-u16,post,3,2,2,4,2,2,1,1,1,2
-u17,post,2,2,4,4,2,4,4,1,1,2
-u18,post,2,2,3,2,2,3,3,1,3,2
-u19,post,1,3,1,1,3,3,1,1,3,1
-u20,post,3,2,3,3,3,2,1,1,1,2
-u23,post,2,4,4,2,2,4,2,2,2,3
-u24,post,2,3,1,3,3,3,3,1,1,2
-u27,post,3,3,1,2,1,3,2,1,1,2
-u30,post,1,1,1,1,1,1,1,1,1,0
-u31,post,4,1,1,1,1,1,3,3,1,1
-u32,post,1,1,3,3,1,1,1,1,1,1
-u33,post,4,4,4,4,4,4,4,4,3,4
-u34,post,3,1,3,3,3,1,2,1,1,1
-u35,post,3,3,1,3,3,3,3,3,1,1
-u36,post,1,1,1,3,1,1,1,1,1,2
-u42,post,1,1,1,1,1,1,1,1,1,1
-u43,post,1,1,3,3,3,1,3,1,1,2
-u44,post,3,1,1,3,1,1,1,1,1,2
-u45,post,1,1,3,1,1,1,3,1,1,1
-u47,post,1,1,1,1,1,1,1,3,1,1
-u49,post,4,1,2,2,3,1,1,1,1,2
-u51,post,1,1,1,1,1,1,1,1,1,0
-u52,post,3,4,4,2,4,3,1,3,3,4
-u53,post,1,3,4,2,4,1,2,1,1,2
-u56,post,1,1,1,2,1,1,3,1,1,2
-u58,post,1,3,1,2,2,3,3,3,1,1
-u59,post,1,1,2,2,3,1,3,3,1,2
+uid,type,Little interest or pleasure in doing things,"Feeling down, depressed, hopeless.","Trouble falling or staying asleep, or sleeping too much.",Feeling tired or having little energy,Poor appetite or overeating,Feeling bad about yourself or that you are a failure or have let yourself or your family down,"Trouble concentrating on things, such as reading the newspaper or watching television",Moving or speaking so slowly that other people could have noticed. Or the opposite being so figety or restless that you have been moving around a lot more than usual,"Thoughts that you would be better off dead, or of hurting yourself",Response,total_score,depression_severity
+u00,pre,0,1,0,1,0,0,0,0,0,0,2,Minimal depression
+u01,pre,1,1,1,1,0,1,0,0,0,2,5,Mild depression
+u02,pre,2,1,2,2,2,1,1,2,0,1,13,Moderate depression
+u03,pre,0,1,0,0,0,0,0,1,0,1,2,Minimal depression
+u04,pre,1,1,0,1,1,1,1,0,0,1,6,Mild depression
+u05,pre,0,0,1,0,1,0,0,0,0,-1,2,Minimal depression
+u07,pre,1,1,0,1,2,1,1,0,0,0,7,Mild depression
+u08,pre,1,1,0,0,1,1,1,0,0,0,5,Mild depression
+u09,pre,0,0,1,1,1,0,1,0,0,0,4,Minimal depression
+u10,pre,0,0,0,0,0,0,0,0,0,-1,0,
+u12,pre,0,0,0,1,0,0,0,0,0,0,1,Minimal depression
+u13,pre,0,1,0,1,1,1,0,0,0,0,4,Minimal depression
+u14,pre,0,0,0,1,0,0,0,0,0,0,1,Minimal depression
+u15,pre,1,0,0,1,1,0,0,0,0,0,3,Minimal depression
+u16,pre,1,1,1,0,0,3,0,0,0,1,6,Mild depression
+u17,pre,1,1,3,3,3,1,0,1,0,1,13,Moderate depression
+u18,pre,2,2,1,2,2,3,1,0,2,2,15,Moderately severe depression
+u19,pre,1,1,0,0,1,1,0,0,1,1,5,Mild depression
+u20,pre,1,1,1,1,1,1,1,1,0,1,8,Mild depression
+u22,pre,0,1,1,0,0,1,0,0,0,0,3,Minimal depression
+u23,pre,1,2,1,2,1,2,2,0,0,1,11,Moderate depression
+u24,pre,1,1,1,1,1,0,0,0,0,1,5,Mild depression
+u27,pre,0,0,2,1,0,0,2,0,0,1,5,Mild depression
+u30,pre,0,0,1,0,0,0,0,0,0,0,1,Minimal depression
+u31,pre,2,1,1,1,1,2,1,1,2,1,12,Moderate depression
+u32,pre,0,0,2,1,1,0,0,0,0,0,4,Minimal depression
+u33,pre,3,3,3,3,3,3,3,2,0,3,23,Severe depression
+u34,pre,0,0,1,0,1,1,0,0,0,0,3,Minimal depression
+u35,pre,1,1,1,1,1,1,1,0,0,1,7,Mild depression
+u36,pre,1,0,0,1,0,0,0,0,0,0,2,Minimal depression
+u39,pre,0,0,0,1,0,1,0,1,0,1,3,Minimal depression
+u42,pre,0,0,0,0,0,0,1,0,0,0,1,Minimal depression
+u43,pre,1,1,1,1,1,1,1,0,0,1,7,Mild depression
+u44,pre,0,0,0,1,0,0,0,0,0,1,1,Minimal depression
+u45,pre,1,1,2,1,1,1,0,0,0,0,7,Mild depression
+u46,pre,2,1,2,1,1,2,1,0,0,1,10,Moderate depression
+u47,pre,2,1,0,0,0,0,2,0,0,0,5,Mild depression
+u49,pre,0,0,0,1,1,0,0,0,0,1,2,Minimal depression
+u50,pre,0,1,0,2,1,1,0,1,1,0,7,Mild depression
+u51,pre,0,0,0,1,0,0,0,0,0,0,1,Minimal depression
+u52,pre,1,1,3,3,3,1,0,0,0,0,12,Moderate depression
+u53,pre,1,1,2,2,1,0,1,0,0,1,8,Mild depression
+u56,pre,0,0,0,2,0,0,0,0,0,0,2,Minimal depression
+u57,pre,0,0,0,0,0,0,0,0,0,0,0,
+u58,pre,1,1,0,0,1,0,1,1,0,0,5,Mild depression
+u59,pre,0,0,1,2,1,0,0,1,0,0,5,Mild depression
+u00,post,0,0,0,1,0,1,1,0,0,1,3,Minimal depression
+u01,post,0,1,1,1,0,0,0,1,0,1,4,Minimal depression
+u02,post,2,0,0,1,1,0,1,0,0,1,5,Mild depression
+u03,post,1,1,0,1,0,1,0,0,0,1,4,Minimal depression
+u04,post,1,1,1,1,1,2,1,0,0,1,8,Mild depression
+u05,post,0,0,0,0,0,0,0,0,0,0,0,
+u07,post,1,1,2,2,2,0,0,0,0,1,8,Mild depression
+u09,post,0,0,0,0,1,1,0,0,0,0,2,Minimal depression
+u10,post,0,0,0,1,1,0,0,2,0,0,4,Minimal depression
+u14,post,0,0,1,1,1,0,0,0,0,-1,3,Minimal depression
+u15,post,0,0,1,0,0,0,0,0,0,0,1,Minimal depression
+u16,post,1,2,2,3,2,2,0,0,0,1,12,Moderate depression
+u17,post,2,2,3,3,2,3,3,0,0,1,18,Moderately severe depression
+u18,post,2,2,1,2,2,1,1,0,1,1,12,Moderate depression
+u19,post,0,1,0,0,1,1,0,0,1,0,4,Minimal depression
+u20,post,1,2,1,1,1,2,0,0,0,1,8,Mild depression
+u23,post,2,3,3,2,2,3,2,2,2,2,21,Severe depression
+u24,post,2,1,0,1,1,1,1,0,0,1,7,Mild depression
+u27,post,1,1,0,2,0,1,2,0,0,1,7,Mild depression
+u30,post,0,0,0,0,0,0,0,0,0,-1,0,
+u31,post,3,0,0,0,0,0,1,1,0,0,5,Mild depression
+u32,post,0,0,1,1,0,0,0,0,0,0,2,Minimal depression
+u33,post,3,3,3,3,3,3,3,3,1,3,25,Severe depression
+u34,post,1,0,1,1,1,0,2,0,0,0,6,Mild depression
+u35,post,1,1,0,1,1,1,1,1,0,0,7,Mild depression
+u36,post,0,0,0,1,0,0,0,0,0,1,1,Minimal depression
+u42,post,0,0,0,0,0,0,0,0,0,0,0,
+u43,post,0,0,1,1,1,0,1,0,0,1,4,Minimal depression
+u44,post,1,0,0,1,0,0,0,0,0,1,2,Minimal depression
+u45,post,0,0,1,0,0,0,1,0,0,0,2,Minimal depression
+u47,post,0,0,0,0,0,0,0,1,0,0,1,Minimal depression
+u49,post,3,0,2,2,1,0,0,0,0,1,8,Mild depression
+u51,post,0,0,0,0,0,0,0,0,0,-1,0,
+u52,post,1,3,3,2,3,1,0,1,1,3,15,Moderately severe depression
+u53,post,0,1,3,2,3,0,2,0,0,1,11,Moderate depression
+u56,post,0,0,0,2,0,0,1,0,0,1,3,Minimal depression
+u58,post,0,1,0,2,2,1,1,1,0,0,8,Mild depression
+u59,post,0,0,2,2,1,0,1,1,0,1,7,Mild depression
