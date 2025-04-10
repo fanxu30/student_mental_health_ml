@@ -1,0 +1,85 @@
+
+Full Variable Mapping for PHQ-9 / PSS Modeling
+==============================================
+
+1. Sleep
+--------
+- sleep_hours (hour): Hours slept last night [1=<3, ..., 19=12]
+- sleep_quality (rate): Sleep quality [1=Very good to 4=Very bad]
+- sleepiness (social): Trouble staying awake during the day [1=None to 4=Three+ times]
+- location
+- resp_time
+
+2. Exercise
+-----------
+- did_exercise (have): Did vigorous exercise today? [1=Yes, 2=No]
+- schedule_block (schedule): Did schedule prevent exercise? [1=Yes, 2=No]
+- exercise_time (exercise): Duration of vigorous exercise [1=None to 5=>90 mins]
+- walk_time (walk): Time spent walking [1=None to 5=>90 mins]
+- location
+- resp_time
+
+3. Social
+---------
+- num_contacts (number): People interacted with yesterday [1=0–4 to 6=100+]
+- location
+- resp_time
+
+4. Mood
+-------
+- happyornot: Binary indicator for happiness
+- happy: Intensity of happiness
+- sadornot: Binary indicator for sadness
+- sad: Intensity of sadness
+- location
+- resp_time
+
+5. Stress
+---------
+- level: Self-reported stress level [1=A little to 5=Feeling great]
+- location
+- resp_time
+
+6. Class
+--------
+- course_id
+- experience: Enjoyment of class
+- hours: Hours spent on coursework
+- due: Assignment due today? [1=Yes, 2=No]
+- location
+- resp_time
+
+7. Behavior
+-----------
+- enthusiastic
+- critical
+- dependable
+- anxious
+- experiences
+- reserved
+- sympathetic
+- disorganized
+- calm
+- conventional
+- resp_time
+
+8. Events
+---------
+- positive_event_score (positive): Intensity of most positive event [1–7]
+- negative_event_score (negative): Intensity of most negative event [1–7]
+- emotion_range: positive - negative
+- has_positive_text: 1 if 'pevent' exists, else 0
+- has_negative_text: 1 if 'nevent' exists, else 0
+- positive_text (pevent)
+- negative_text (nevent)
+- location
+- resp_time
+
+MAYBE??
+9. Class 2 / Lab
+-----------------
+- challenge: Class difficulty [1=Agree Strongly to 6=Disagree Strongly]
+- effort: Effort level [1=Agree Strongly to 6=Disagree Strongly]
+- grade: Expected grade [1=A to 8=C-]
+- location
+- resp_time
