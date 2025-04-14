@@ -75,7 +75,6 @@ Full Variable Mapping for PHQ-9 / PSS Modeling
 - location
 - resp_time
 
-MAYBE??
 9. Class 2 / Lab
 -----------------
 - challenge: Class difficulty [1=Agree Strongly to 6=Disagree Strongly]
