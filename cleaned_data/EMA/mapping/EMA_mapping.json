@@ -217,30 +217,50 @@
         "name": "Events",
         "questions": [
             {
-                "options": "[1]1, [2]2, [3]3, [4]4, [5]5, [6]6, [7]7, ",
-                "question_id": "positive",
-                "question_text": "Think About Yesterday's Events. Rate the intensity of your Most Positive Events on a scale ranging from 1 (very weak)  to 7 (very intense)."
-            },
-            {
-                "options": "[1]1, [2]2, [3]3, [4]4, [5]5, [6]6, [7]7, ",
-                "question_id": "negative",
-                "question_text": "Rate the intensity of your Most Negative Events on a scale."
-            },
-            {
-                "options": "",
-                "question_id": "pevent",
-                "question_text": "What was the positive event (single word or short comment)?"
-            },
-            {
-                "options": "",
-                "question_id": "nevent",
-                "question_text": "What was the negative event?"
-            },
-            {
-                "options": "",
-                "question_id": "location",
-                "question_text": ""
-            }
+                "name": "Events",
+                "questions": [
+                  {
+                    "question_id": "positive",
+                    "question_text": "Think about yesterday's events. Rate the intensity of your most positive event on a scale ranging from 1 (very weak) to 7 (very intense).",
+                    "options": "[1]1, [2]2, [3]3, [4]4, [5]5, [6]6, [7]7"
+                  },
+                  {
+                    "question_id": "negative",
+                    "question_text": "Rate the intensity of your most negative event on a scale from 1 (very weak) to 7 (very intense).",
+                    "options": "[1]1, [2]2, [3]3, [4]4, [5]5, [6]6, [7]7"
+                  },
+                  {
+                    "question_id": "pevent",
+                    "question_text": "What was the positive event (single word or short comment)?",
+                    "options": ""
+                  },
+                  {
+                    "question_id": "nevent",
+                    "question_text": "What was the negative event?",
+                    "options": ""
+                  },
+                  {
+                    "question_id": "location",
+                    "question_text": "Where did the event(s) occur?",
+                    "options": ""
+                  },
+                  {
+                    "question_id": "emotion_range",
+                    "question_text": "Emotional intensity range between positive and negative events.",
+                    "options": "[1]positive, [2]negative"
+                  },
+                  {
+                    "question_id": "has_positive_text",
+                    "question_text": "Did the participant provide a positive event description?",
+                    "options": "[0]No, [1]Yes"
+                  },
+                  {
+                    "question_id": "has_negative_text",
+                    "question_text": "Did the participant provide a negative event description?",
+                    "options": "[0]No, [1]Yes"
+                  }
+                ]
+              }
         ]
     },
 
