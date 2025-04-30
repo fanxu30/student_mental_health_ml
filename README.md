@@ -19,8 +19,7 @@ student_mental_health_ml/
 ├── LSTM/                         # LSTM model implementation
 ├── Model Building & Testing/     # Model training and evaluation
 ├── README.md                     # Project documentation
-└── .DS_Store                     # System file (can be ignored)
-
+└── .DS_Store                     # System file
 ```
 
 
