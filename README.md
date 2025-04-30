@@ -23,7 +23,7 @@ The StudentLife dataset comprises daily records from 48 undergraduate and gradua
 - Mental states (mood, stress, anxiety)
 - PHQ-9 scores (depression severity)
 
-After data cleaning and preprocessing, the final dataset included approximately 3,000-3,200 usable samples.
+After data cleaning and preprocessing, the final dataset included approximately 2,560 usable samples.
 
 ## Methodology
 
@@ -72,6 +72,7 @@ We conducted extensive explainability analyses to understand model predictions:
 - Sadness demonstrated a nearly linear relationship with depression scores
 - Openness to experience showed a threshold effect at high levels
 - Minimal routine was sufficient for mental health benefits, with additional structure showing diminishing returns
+- XGBoost was the most robust to class imbalances and noise
 
 ## Recommendations
 
