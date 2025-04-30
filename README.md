@@ -6,6 +6,24 @@ A machine learning approach to predicting anxiety and depression in undergraduat
 
 This repository contains the code and analysis for predicting depression severity (PHQ-9 scores) in undergraduate students based on lifestyle, academic, and behavioral factors. Using the 2013 StudentLife longitudinal dataset, we applied various machine learning models to identify key predictors of mental health outcomes and develop actionable insights for intervention strategies.
 
+## Repository Structure
+```
+student_mental_health_ml/
+├── Data/
+│   ├── Data_Raw/                 # Original raw data files
+│   ├── Data_Clean/               # Cleaned and preprocessed data
+│   └── Data_Cleaning/            # Scripts for data cleaning
+├── Experiment_Class_Imbalance/   # Handling imbalanced classes
+├── Experiment_Feature_Selection/ # Feature selection experiments
+├── Experiment_Noise/             # Noise analysis and mitigation
+├── LSTM/                         # LSTM model implementation
+├── Model Building & Testing/     # Model training and evaluation
+├── README.md                     # Project documentation
+└── .DS_Store                     # System file (can be ignored)
+
+```
+
+
 ## Key Findings
 
 - Our XGBoost model achieved an R² of 0.896, demonstrating strong predictive power for depression scores
