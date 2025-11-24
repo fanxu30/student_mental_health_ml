@@ -108,6 +108,22 @@ git clone https://github.com/fanxu30/student_mental_health_ml.git
 cd student_mental_health_ml
 ```
 
+## Streamlit Dashboard
+
+We expose the explainable StudentLife dashboard via Streamlit (`app.py`).
+
+### Local usage
+1. Create/activate a virtual environment (optional but recommended).
+2. Install the dashboard dependencies:
+   ```bash
+   pip install streamlit pandas scikit-learn shap plotly matplotlib numpy xgboost
+   ```
+3. Launch the app from the repository root:
+   ```bash
+   streamlit run app.py
+   ```
+4. Open the URL Streamlit prints (defaults to http://localhost:8501) and interact with the cohort filters, model selector (Random Forest, XGBoost, or Neural Net), and SHAP explanations.
+
 ## Contributors
 
 - Fan Xu
