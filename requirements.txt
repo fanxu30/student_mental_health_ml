@@ -6,4 +6,5 @@ matplotlib>=3.8.0
 scikit-learn>=1.4.0
 shap>=0.44.0
 xgboost>=2.0.0
+statsmodels>=0.14.0
 
